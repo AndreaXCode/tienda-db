@@ -1,4 +1,4 @@
-# <span style="color:#5207a6">tienda-db</span>
+# <span style="color:#03af75">tienda-db</span>
 
 
 ## <span style="color:#a5140b">POJOs</span>
@@ -40,7 +40,7 @@
 
 
 
-## Componentes
+## <span style="color:#a5140b">Componentes</span>
 
 <b>ProductDAO</b>
 - Insertar, listar, eliminar
@@ -63,7 +63,7 @@
 
 
 
-## TiendaApp
+## <span style="color:#a5140b">TiendaApp</span>
 
 
 Debe implementar un bucle con las siguientes opciones:
