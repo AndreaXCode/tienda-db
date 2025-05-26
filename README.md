@@ -1,7 +1,7 @@
 # <span style="color:#5207a6">tienda-db</span>
 
 
-## <span style="color:#a5140b">"POJOs</span>
+## <span style="color:#a5140b">POJOs</span>
 
 <b>Product</b>
 - id: int
