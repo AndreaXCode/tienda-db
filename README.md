@@ -39,6 +39,7 @@
 
 
 
+
 ## Componentes
 
 <b>ProductDAO</b>
@@ -59,6 +60,7 @@
 
 <b>OrderItemDAO</b>
 - Insertar, listar, eliminar
+
 
 
 ## TiendaApp
